@@ -1,5 +1,5 @@
 
-I will always give my 100% however, but I rather be average than lose my sanity
+I will always give my 100% however, I rather be average than lose my sanity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
