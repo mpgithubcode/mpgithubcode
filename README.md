@@ -1,7 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Mario Perry</h1>
-<h3 align="center">An average frontend developer from Boston</h3>
-
 I will always give my 100% however, but I rather be average than lose my sanity
 
 <h3 align="left">Connect with me:</h3>
